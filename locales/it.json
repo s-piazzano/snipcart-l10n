@@ -94,7 +94,7 @@
         "name": "Nome completo",
         "email": "Email",
         "address1": "Indirizzo",
-        "address2": "Citofono",
+        "address2": "Numero civico",
         "city": "Città",
         "country": "Nazione",
         "postalCode": "Cap",
